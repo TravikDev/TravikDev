@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript, HTML5/CSS3, React, Redux, NextJS, MongoDB, ExpressJS and etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-LinkedIn - www.linkedin.com/in/travikvlad
+LinkedIn - www.linkedin.com/in/travikdev
 
 
 <!---
